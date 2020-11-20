@@ -35,11 +35,9 @@ Cart has a summary with added products and the total amount. 'Order now' button 
 
 
 ## Managing your products
-In a Manage products section, user will see only products that were created from user's account.
+In a Manage products section, user will see only products that were created from user's account. User can add a new product and edit them later on.
 
-<img src="https://user-images.githubusercontent.com/12699008/99783618-a0979500-2ae8-11eb-9855-4fe1ce7ad029.png" width="250" height="580" /> <img src="" width="300" height="650"/>
-<img src="https://user-images.githubusercontent.com/12699008/99783626-a2615880-2ae8-11eb-8940-f9dba4cb90e0.png" width="300" height="650" />
-<img src="https://user-images.githubusercontent.com/12699008/99783627-a2f9ef00-2ae8-11eb-9f39-909ef71f8ba3.png" width="300" height="650"/>
+<img src="https://user-images.githubusercontent.com/12699008/99783618-a0979500-2ae8-11eb-9855-4fe1ce7ad029.png" width="300" height="650" />  <img src="https://user-images.githubusercontent.com/12699008/99783626-a2615880-2ae8-11eb-8940-f9dba4cb90e0.png" width="300" height="650" /> <img src="https://user-images.githubusercontent.com/12699008/99783627-a2f9ef00-2ae8-11eb-9f39-909ef71f8ba3.png" width="300" height="650"/>
 
 
 
