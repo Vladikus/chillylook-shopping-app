@@ -21,7 +21,7 @@ assets | images and fonts
 ## Sign In
 Validators for input forms are implemented as well as showDialogs to display and explain the http errors and exceptions to the user.<br/>
 <br/>
-<img src="https://user-images.githubusercontent.com/12699008/99783546-89f13e00-2ae8-11eb-9a05-4a75f334fffe.png" width="250" height="540" /> <img src="https://user-images.githubusercontent.com/12699008/99783548-8a89d480-2ae8-11eb-8a06-6ec7e9bd4244.png" width="250" height="540" /> <img src="https://user-images.githubusercontent.com/12699008/99783550-8b226b00-2ae8-11eb-98e0-4a9f84010708.png" width="250" height="540" />
+<img src="https://user-images.githubusercontent.com/12699008/99783546-89f13e00-2ae8-11eb-9a05-4a75f334fffe.png" width="270" height="583"  /> <img src="https://user-images.githubusercontent.com/12699008/99783548-8a89d480-2ae8-11eb-8a06-6ec7e9bd4244.png" width="270" height="583"  /> <img src="https://user-images.githubusercontent.com/12699008/99783550-8b226b00-2ae8-11eb-98e0-4a9f84010708.png" width="270" height="583" />
 
 ## Products Overview
 * All Products from all the users of the app are displayed on the main scrollable screen as a grid with clickable icons around the title to favorite the product or add to the cart.
@@ -31,19 +31,19 @@ Validators for input forms are implemented as well as showDialogs to display and
   * Filter to sort all products and your favorite products
   * Cart; There is a SnackBar appearing at the bottom when adding a product to the cart with UNDO functionality<br/>
   <br/>
-<img src="https://user-images.githubusercontent.com/12699008/99783615-9f666800-2ae8-11eb-89a4-29bbca785ca2.png" width="280" height="604"/> <img src="https://user-images.githubusercontent.com/12699008/99783616-9ffefe80-2ae8-11eb-9675-6e8f16e7d97c.png" width="280" height="604"/> <img src="https://user-images.githubusercontent.com/12699008/99783619-a0979500-2ae8-11eb-95fb-73836e6cf96f.png" width="280" height="604" /> <img src="https://user-images.githubusercontent.com/12699008/99783620-a1302b80-2ae8-11eb-9c53-7205280e0e8d.png" width="280" height="604" /> <img src="https://user-images.githubusercontent.com/12699008/99783621-a1302b80-2ae8-11eb-800f-96d57fa6a05c.png" width="280" height="604"/>
+<img src="https://user-images.githubusercontent.com/12699008/99783615-9f666800-2ae8-11eb-89a4-29bbca785ca2.png" width="270" height="583" /> <img src="https://user-images.githubusercontent.com/12699008/99783616-9ffefe80-2ae8-11eb-9675-6e8f16e7d97c.png" width="270" height="583" /> <img src="https://user-images.githubusercontent.com/12699008/99783619-a0979500-2ae8-11eb-95fb-73836e6cf96f.png" width="270" height="583"  /> <img src="https://user-images.githubusercontent.com/12699008/99783620-a1302b80-2ae8-11eb-9c53-7205280e0e8d.png" width="270" height="583"  /> <img src="https://user-images.githubusercontent.com/12699008/99783621-a1302b80-2ae8-11eb-800f-96d57fa6a05c.png" width="270" height="583" />
 
 ## Cart
 Cart has a summary with added products and the total amount. 'Order now' button triggers firebase request and saves the order to the database and clears the screen.
 
-<img src="https://user-images.githubusercontent.com/12699008/99783628-a2f9ef00-2ae8-11eb-9066-5a86c88a96f3.png" width="280" height="604" /> <img src="https://user-images.githubusercontent.com/12699008/99783624-a2615880-2ae8-11eb-984c-e9221f8750d8.png" width="280" height="604" />  <img src="https://user-images.githubusercontent.com/12699008/99783625-a2615880-2ae8-11eb-98b0-e9c10ce8d6b5.png" width="280" height="604" />
+<img src="https://user-images.githubusercontent.com/12699008/99783628-a2f9ef00-2ae8-11eb-9066-5a86c88a96f3.png" width="270" height="583"  /> <img src="https://user-images.githubusercontent.com/12699008/99783624-a2615880-2ae8-11eb-984c-e9221f8750d8.png" width="270" height="583"  />  <img src="https://user-images.githubusercontent.com/12699008/99783625-a2615880-2ae8-11eb-98b0-e9c10ce8d6b5.png" width="270" height="583"  />
 
 
 
 ## Managing your products
 In a Manage products section, user will see only products that were created from user's account. User can add new products and edit them later on.
 
-<img src="https://user-images.githubusercontent.com/12699008/99783618-a0979500-2ae8-11eb-9855-4fe1ce7ad029.png" width="280" height="604" />  <img src="https://user-images.githubusercontent.com/12699008/99783626-a2615880-2ae8-11eb-8940-f9dba4cb90e0.png" width="280" height="604" /> <img src="https://user-images.githubusercontent.com/12699008/99783627-a2f9ef00-2ae8-11eb-9f39-909ef71f8ba3.png" width="280" height="604"/>
+<img src="https://user-images.githubusercontent.com/12699008/99783618-a0979500-2ae8-11eb-9855-4fe1ce7ad029.png" width="270" height="583"  />  <img src="https://user-images.githubusercontent.com/12699008/99783626-a2615880-2ae8-11eb-8940-f9dba4cb90e0.png" width="270" height="583"  /> <img src="https://user-images.githubusercontent.com/12699008/99783627-a2f9ef00-2ae8-11eb-9f39-909ef71f8ba3.png" width="270" height="583" />
 
 
 
