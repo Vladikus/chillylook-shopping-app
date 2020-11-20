@@ -47,10 +47,11 @@ Things to do:
 - [x] Adding and modifying products
 - [x] Cart and Orders System
 - [x] Authentication & User Management
+- [ ] __Improve overall design and formats__
 - [ ] Implement Bloc/Provider State Manager
 - [ ] Create Products categories and Search
 - [ ] Notification center
 - [ ] Integrate sharing on social media platforms
-- [ ] Adding pircutres for the products from local library or device's camera
+- [ ] Adding pictures for the products from local library or device's camera
 - [ ] Payments processing and storing of payments details
 
