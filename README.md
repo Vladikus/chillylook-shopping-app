@@ -1,5 +1,9 @@
 # ChillyLook Shopping App
 
+The __ChillyLook app__ provides the potential user with the view the products, favorite them, add to the cart and purchase them. In addition, users can add new products and edit them later on conveniently. Those products are available for public view, so other users of the app would be able to view and purchase them as well.    
+  
+All the data is stored on cloud-hosted database -  __Firebase Realtime Database__.
+
 <img src="https://user-images.githubusercontent.com/12699008/99783543-89f13e00-2ae8-11eb-8bc1-db45acd85f7e.png" width="300" height="650" /> <img src="https://user-images.githubusercontent.com/12699008/99783615-9f666800-2ae8-11eb-89a4-29bbca785ca2.png" width="300" height="650" /> <img src="https://user-images.githubusercontent.com/12699008/99783618-a0979500-2ae8-11eb-9855-4fe1ce7ad029.png" width="300" height="650" />
 
 ## Technologies used:
@@ -35,7 +39,7 @@ Cart has a summary with added products and the total amount. 'Order now' button 
 
 
 ## Managing your products
-In a Manage products section, user will see only products that were created from user's account. User can add a new product and edit them later on.
+In a Manage products section, user will see only products that were created from user's account. User can add new products and edit them later on.
 
 <img src="https://user-images.githubusercontent.com/12699008/99783618-a0979500-2ae8-11eb-9855-4fe1ce7ad029.png" width="300" height="650" />  <img src="https://user-images.githubusercontent.com/12699008/99783626-a2615880-2ae8-11eb-8940-f9dba4cb90e0.png" width="300" height="650" /> <img src="https://user-images.githubusercontent.com/12699008/99783627-a2f9ef00-2ae8-11eb-9f39-909ef71f8ba3.png" width="300" height="650"/>
 
@@ -48,6 +52,7 @@ Things to do:
 - [x] Cart and Orders System
 - [x] Authentication & User Management
 - [ ] __Improve overall design and formats__
+- [ ] Add Animation
 - [ ] Implement Bloc/Provider State Manager
 - [ ] Create Products categories and Search
 - [ ] Notification center
