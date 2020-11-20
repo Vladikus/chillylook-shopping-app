@@ -2,9 +2,9 @@
 
 The __ChillyLook app__ provides the potential user with the view the products, favorite them, add to the cart and purchase them. In addition, users can add new products and edit them later on conveniently. Those products are available for public view, so other users of the app would be able to view and purchase them as well.    
   
-All the data is stored on cloud-hosted database -  __Firebase Realtime Database__.
+All the data is stored on cloud-hosted database -  __Firebase Realtime Database__.  
 
-<img src="https://user-images.githubusercontent.com/12699008/99783543-89f13e00-2ae8-11eb-8bc1-db45acd85f7e.png" width="300" height="650" /> <img src="https://user-images.githubusercontent.com/12699008/99783615-9f666800-2ae8-11eb-89a4-29bbca785ca2.png" width="300" height="650" /> <img src="https://user-images.githubusercontent.com/12699008/99783618-a0979500-2ae8-11eb-9855-4fe1ce7ad029.png" width="300" height="650" />
+<img src="https://user-images.githubusercontent.com/12699008/99783543-89f13e00-2ae8-11eb-8bc1-db45acd85f7e.png" width="280" height="604" /> <img src="https://user-images.githubusercontent.com/12699008/99783615-9f666800-2ae8-11eb-89a4-29bbca785ca2.png" width="280" height="604"/> <img src="https://user-images.githubusercontent.com/12699008/99783618-a0979500-2ae8-11eb-9855-4fe1ce7ad029.png" width="280" height="604"/>
 
 ## Technologies used:
 Package | Explanation
@@ -29,19 +29,19 @@ Validators for input forms are implemented as well as showDialogs to display and
   * AppDrawer to display the navigation menu 
   * Filter to sort all products and your favorite products
   * Cart; There is a SnackBar appearing at the bottom when adding a product to the cart with UNDO functionality
-<img src="https://user-images.githubusercontent.com/12699008/99783615-9f666800-2ae8-11eb-89a4-29bbca785ca2.png" width="300" height="650" /> <img src="https://user-images.githubusercontent.com/12699008/99783616-9ffefe80-2ae8-11eb-9675-6e8f16e7d97c.png" width="300" height="650" /> <img src="https://user-images.githubusercontent.com/12699008/99783619-a0979500-2ae8-11eb-95fb-73836e6cf96f.png" width="300" height="650" /> <img src="https://user-images.githubusercontent.com/12699008/99783620-a1302b80-2ae8-11eb-9c53-7205280e0e8d.png" width="300" height="650" /> <img src="https://user-images.githubusercontent.com/12699008/99783621-a1302b80-2ae8-11eb-800f-96d57fa6a05c.png" width="300" height="650" />
+<img src="https://user-images.githubusercontent.com/12699008/99783615-9f666800-2ae8-11eb-89a4-29bbca785ca2.png" width="280" height="604"/> <img src="https://user-images.githubusercontent.com/12699008/99783616-9ffefe80-2ae8-11eb-9675-6e8f16e7d97c.png" width="280" height="604"/> <img src="https://user-images.githubusercontent.com/12699008/99783619-a0979500-2ae8-11eb-95fb-73836e6cf96f.png" width="280" height="604" /> <img src="https://user-images.githubusercontent.com/12699008/99783620-a1302b80-2ae8-11eb-9c53-7205280e0e8d.png" width="280" height="604" /> <img src="https://user-images.githubusercontent.com/12699008/99783621-a1302b80-2ae8-11eb-800f-96d57fa6a05c.png" width="280" height="604"/>
 
 ## Cart
 Cart has a summary with added products and the total amount. 'Order now' button triggers firebase request and saves the order to the database and clears the screen.
 
-<img src="https://user-images.githubusercontent.com/12699008/99783628-a2f9ef00-2ae8-11eb-9066-5a86c88a96f3.png" width="280" height="620"  /> <img src="https://user-images.githubusercontent.com/12699008/99783624-a2615880-2ae8-11eb-984c-e9221f8750d8.png" width="280" height="620" />  <img src="https://user-images.githubusercontent.com/12699008/99783625-a2615880-2ae8-11eb-98b0-e9c10ce8d6b5.png" width="280" height="620"  />
+<img src="https://user-images.githubusercontent.com/12699008/99783628-a2f9ef00-2ae8-11eb-9066-5a86c88a96f3.png" width="280" height="604" /> <img src="https://user-images.githubusercontent.com/12699008/99783624-a2615880-2ae8-11eb-984c-e9221f8750d8.png" width="280" height="604" />  <img src="https://user-images.githubusercontent.com/12699008/99783625-a2615880-2ae8-11eb-98b0-e9c10ce8d6b5.png" width="280" height="604" />
 
 
 
 ## Managing your products
 In a Manage products section, user will see only products that were created from user's account. User can add new products and edit them later on.
 
-<img src="https://user-images.githubusercontent.com/12699008/99783618-a0979500-2ae8-11eb-9855-4fe1ce7ad029.png" width="300" height="650" />  <img src="https://user-images.githubusercontent.com/12699008/99783626-a2615880-2ae8-11eb-8940-f9dba4cb90e0.png" width="300" height="650" /> <img src="https://user-images.githubusercontent.com/12699008/99783627-a2f9ef00-2ae8-11eb-9f39-909ef71f8ba3.png" width="300" height="650"/>
+<img src="https://user-images.githubusercontent.com/12699008/99783618-a0979500-2ae8-11eb-9855-4fe1ce7ad029.png" width="280" height="604" />  <img src="https://user-images.githubusercontent.com/12699008/99783626-a2615880-2ae8-11eb-8940-f9dba4cb90e0.png" width="280" height="604" /> <img src="https://user-images.githubusercontent.com/12699008/99783627-a2f9ef00-2ae8-11eb-9f39-909ef71f8ba3.png" width="280" height="604"/>
 
 
 
