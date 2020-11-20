@@ -1,6 +1,6 @@
 # ChillyLook Shopping App
 
-<img src="https://user-images.githubusercontent.com/12699008/99783543-89f13e00-2ae8-11eb-8bc1-db45acd85f7e.png" width="300" height="650" />
+<img src="https://user-images.githubusercontent.com/12699008/99783543-89f13e00-2ae8-11eb-8bc1-db45acd85f7e.png" width="300" height="650" /> <img src="https://user-images.githubusercontent.com/12699008/99783615-9f666800-2ae8-11eb-89a4-29bbca785ca2.png" width="300" height="650" /> <img src="https://user-images.githubusercontent.com/12699008/99783618-a0979500-2ae8-11eb-9855-4fe1ce7ad029.png" width="300" height="650" />
 
 ## Technologies used:
 Package | Explanation
@@ -15,11 +15,11 @@ __Firebase__ | Realtime Database
 assets | images and fonts
 
 ## Sign In
-Validators for input forms are implemented as well as showDialogs to display and explain the hhtp errors and exceptions to the user.
+Validators for input forms are implemented as well as showDialogs to display and explain the http errors and exceptions to the user.
 <img src="https://user-images.githubusercontent.com/12699008/99783546-89f13e00-2ae8-11eb-9a05-4a75f334fffe.png" width="300" height="650" /> <img src="https://user-images.githubusercontent.com/12699008/99783548-8a89d480-2ae8-11eb-8a06-6ec7e9bd4244.png" width="300" height="650" /> <img src="https://user-images.githubusercontent.com/12699008/99783550-8b226b00-2ae8-11eb-98e0-4a9f84010708.png" width="300" height="650" />
 
 ## Products Overview
-* All Products from al the users of the app are displayed on the main scrollable screen as a greed with clickable icons around the title to favorite the product or add to the cart.
+* All Products from all the users of the app are displayed on the main scrollable screen as a grid with clickable icons around the title to favorite the product or add to the cart.
 * *__CircularIndicator__ is being displayed on the screen while products are loading or while any http request is being processed.*
 * AppBar contains:
   * AppDrawer to display the navigation menu 
